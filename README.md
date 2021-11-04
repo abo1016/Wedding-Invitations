@@ -1,2 +1,7 @@
-# Wedding-Invitations
-Wedding Invitations
+> Usage
+
+```shell
+npm install
+
+npm run dev
+```
